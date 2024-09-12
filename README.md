@@ -12,8 +12,8 @@ Flat rate for flights less than 500 miles = $100
 3. calculate cost based on distance, departure date, and service class for flights over 1000 miles
    
    1. 30 cents per mile if departing within 7 days
-   2.25 cents per mile if departing within 30 days
-   3.20 cents per mile if departing within 90 days
+   2. 25 cents per mile if departing within 30 days
+   3. 20 cents per mile if departing within 90 days.
       
 5. Seat Class
    1. fare not change for Economy class
