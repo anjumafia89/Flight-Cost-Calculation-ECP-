@@ -1,4 +1,4 @@
-I've created test cases using the QASE tool and imported  CSV files. Here using ECP Black Box Testing
+I have used the QASE tool to create test cases and imported CSV files. Black Box Testing (ECP) is utilized for creating the test cases.
 
 These are the requirements:
 
