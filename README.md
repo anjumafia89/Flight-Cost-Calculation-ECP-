@@ -1,4 +1,4 @@
-I've created test cases using the QASE tool and imported  CSV files. 
+I've created test cases using the QASE tool and imported  CSV files. Here using ECP Black Box Testing
 
 These are the requirements:
 
