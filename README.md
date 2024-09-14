@@ -1,4 +1,4 @@
-#Flight-Cost-Calculation-ECP-
+# Flight-Cost-Calculation-ECP-
 Flight Cost Calculation Using Black Box Testing(ECP)
 
 I used the QASE tool to create test cases and imported CSV files, utilizing Black Box Testing (ECP) for creating the test cases. There are 3 suites and 60 test cases.
