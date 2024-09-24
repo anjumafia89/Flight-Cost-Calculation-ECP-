@@ -22,10 +22,13 @@ Flat rate for flights less than 500 miles = $100
 
 		1. fare not change for Economy class
  		2. double the cost for Business class
-  	   3. triple the cost for First class.
+		3. triple the cost for First class.
 
+Additional project
 Test cases for Flight Cost Calculation Using Black Box Testing(BVA)
 https://github.com/anjumafia89/Flight-Cost-Calculation-Test-Cases--BVA-
 
+Test cases for Fund Transfer Application Using Black Box Testing(BVA)
+https://github.com/anjumafia89/Fund_Transfer_Application-Test-Cases
 
  
